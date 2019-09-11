@@ -4,7 +4,7 @@ Demo of a simple secondhand market written in Node.js, using the Express framewo
 **Home page**
 ![Home page](/second-hand.png)
 
-# How to build**
+# How to build
 - **Make sure you have at least Node 8.11.1 or higher installed!**  
 - **This repository also uses Express javascript framework, Bootstrap4 and mongoDB,make sure you have install all of them**
 
