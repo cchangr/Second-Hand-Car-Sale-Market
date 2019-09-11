@@ -1,5 +1,6 @@
 # Second Hand Car Sale Market
-Demo of a simple secondhand market written in Node.js, using the Express framework
+a simple secondhand market written in Node.js, using the Express framework, providing show and sell goods in the market and
+user comment and delete feature.
 
 **Home page**
 ![Home page](/second-hand.png)
