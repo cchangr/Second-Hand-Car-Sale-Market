@@ -1,4 +1,4 @@
-# secondhand_market_demo
+# Second Hand Car Sale Market
 Demo of a simple secondhand market written in Node.js, using the Express framework
 
 **Home page**
